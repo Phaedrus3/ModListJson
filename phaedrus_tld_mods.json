@@ -23,7 +23,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://github.com/Phaedrus3/SmallFixToScenes/raw/main/smallfixtoscenes.jpg"
+				"https://github.com/Phaedrus3/SmallFixToScenes/raw/main/Smallfixtoscenes.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -36,8 +36,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "TLD v2.17",
-				"mlversion": " ML v6.0.1"
+				"tldversion": "v2.17",
+				"mlversion": " v6.0.1"
 			},
 			"updater": {
 				"enable": true,
