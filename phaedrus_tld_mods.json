@@ -15,7 +15,7 @@
 			"updated": "2023-06-26",
 			"downloadURL": "https://github.com/Phaedrus3/SmallFixToScenes/releases/download/v2.0/SmallFixToScenes.dll",
 			"modURL": "https://github.com/Phaedrus3/SmallFixToScenes",
-			"description": "Allows for the removal of beds, cabinets, counters and a few other objects in the lookout towers and stone cabins.",
+			"description": "Remove beds, cabinets, counters and a few other objects in the Lookout Towers (ML, CH and BI) and the stone cabins (TWM and BRR).",
 			"tags": "",
 			"categories": [
 				"Quality of Life",
