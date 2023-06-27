@@ -44,6 +44,47 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "",
+			"name": "Stretch Armstrong",
+			"displayName": "Stretch Armstrong",
+			"author": "",
+			"previousAuthors": "Bushtail",
+			"released": "2023-06-27",
+			"updated": "2023-06-27",
+			"downloadURL": "https://github.com/Phaedrus3/StretchArmstrong/releases/download/v2.0/StretchArmstrong.dll",
+			"modURL": "https://github.com/Phaedrus3/StretchArmstrong",
+			"description": "Allows the user to modify their interaction distance.",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.17",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
+
+
