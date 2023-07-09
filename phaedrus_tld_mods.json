@@ -83,6 +83,45 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "2.1.0",
+			"name": "SonicMode",
+			"displayName": "SonicMode",
+			"author": "",
+			"previousAuthors": "ds5678",
+			"released": "2023-07-09",
+			"updated": "2023-07-09",
+			"downloadURL": "https://github.com/Phaedrus3/SonicMode/releases/download/v2.1.0/SonicMode.dll",
+			"modURL": "https://github.com/Phaedrus3/SonicMode",
+			"description": "Lets you go fast!",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.17",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
