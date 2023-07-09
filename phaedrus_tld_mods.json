@@ -102,7 +102,7 @@
 				"Gameplay"
 			],
 			"gameversion": [],
-			"images": [https://github.com/Phaedrus3/ModListJson/blob/main/SonicMode.png],
+			"images": [https://github.com/Phaedrus3/ModListJson/raw/main/SonicMode.png],
 			"dependencies": [
 				"ModSettings"
 			],
