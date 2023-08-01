@@ -177,7 +177,9 @@
 				"Base Building"
 			],
 			"gameversion": [],
-			"images": ["https://github.com/Phaedrus3/ModListJson/raw/main/Fort_Blackrock2.jpg"],
+			"images": [
+				"https://github.com/Phaedrus3/ModListJson/raw/main/Fort_Blackrock2.jpg"
+			],
 			"dependencies": [],
 			"status": {
 				"working": true,
