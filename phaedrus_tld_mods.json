@@ -159,6 +159,43 @@
 			},
 			"aliases": []
 		}
+		{
+			"type": "mod",
+			"version": "1.0",
+			"name": "Better Blackrock: A Fort Blackrock Playerhome",
+			"displayName": "Better Blackrock: A Fort Blackrock Playerhome",
+			"author": "Phaedrus",
+			"previousAuthors": "",
+			"released": "2023-08-01",
+			"updated": "2023-08-01",
+			"downloadURL": "https://github.com/Phaedrus3/BetterBlackrockPrison/releases/download/v1.0/BetterBlackrock.dll",
+			"modURL": "https://github.com/Phaedrus3/BetterBlackrockPrison",
+			"description": "Special Thanks to FarCryBliss!!  \n\nClearing out the rubble was hard for the survivors that chose to turn Blackrock Prison into a home for themselves. A fortress in the snowy region of Blackrock, Fort Blackrock is now a large open player home with all but 1 jail cell open, a clear main hallway and the canteen originally full of rubble that you have to crouch to get through has been cleared, able to be used for anything a survivor might want. We don't have a palace in The Long Dark but this comes close.",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Base Building"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.22",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		}
 	]
 }
 
