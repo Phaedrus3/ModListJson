@@ -6,16 +6,16 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "2.0",
-			"name": "SmallFixToScenes",
-			"displayName": "Small Fix To Scenes",
-			"author": "",
+			"version": "1.0",
+			"name": "OutdoorSafehouseAdjustments",
+			"displayName": "Outdoor Safehouse Adjustments",
+			"author": "Pheadrus",
 			"previousAuthors": "Santana",
-			"released": "2023-06-26",
-			"updated": "2023-06-26",
-			"downloadURL": "https://github.com/Phaedrus3/SmallFixToScenes/releases/download/v2.0/SmallFixToScenes.dll",
-			"modURL": "https://github.com/Phaedrus3/SmallFixToScenes",
-			"description": "Remove beds, cabinets, counters and a few other objects in the Lookout Towers (ML, CH and BI) and the stone cabins (TWM and BRR).",
+			"released": "2023-08-30",
+			"updated": "2023-08-30",
+			"downloadURL": "https://github.com/Phaedrus3/OutdoorSafehouseAdjustments/releases/download/ver1.0/OutdoorSafehouseAdjustments.dll",
+			"modURL": "https://github.com/Phaedrus3/OutdoorSafehouseAdjustments",
+			"description": "",
 			"tags": "",
 			"categories": [
 				"Quality of Life",
@@ -23,21 +23,19 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://github.com/Phaedrus3/SmallFixToScenes/raw/main/smallfixtoscenes.jpg"
+				"https://github.com/Phaedrus3/ModListJson/blob/main/OutdoorSafehouseAdjustments.jpg"
 			],
-			"dependencies": [
-				"ModSettings"
-			],
+			"dependencies": [],
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "FIX: Fixed for TLD 2.17\nNEW: Added Forestry Lookout in ML\nNEW: Added Pensive Lookout in BI\nNEW: Added Brick Layers Retreat in BRR",
+				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
-				"mlversion": " 0.6.1"
+				"tldversion": "2.22",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
