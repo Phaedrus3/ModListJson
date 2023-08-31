@@ -25,7 +25,9 @@
 			"images": [
 				"https://github.com/Phaedrus3/ModListJson/raw/main/OutdoorSafehouseAdjustments.jpg"
 			],
-			"dependencies": [],
+			"dependencies": [
+				"ModSettings"
+			],
 			"status": {
 				"working": true,
 				"beta": false,
