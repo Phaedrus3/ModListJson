@@ -79,7 +79,7 @@
 				"mlversion": "0.6.1"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
 				"downloads": []
 			},
 			"aliases": []
