@@ -50,7 +50,7 @@
 			"version": "2.0",
 			"name": "Stretch Armstrong",
 			"displayName": "Stretch Armstrong",
-			"author": "",
+			"author": "Phaedrus",
 			"previousAuthors": "Bushtail",
 			"released": "2023-06-27",
 			"updated": "2023-06-27",
@@ -75,7 +75,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.22",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -89,7 +89,7 @@
 			"version": "2.1.0",
 			"name": "SonicMode",
 			"displayName": "SonicMode",
-			"author": "",
+			"author": "Phaedrus",
 			"previousAuthors": "ds5678",
 			"released": "2023-07-09",
 			"updated": "2023-07-09",
@@ -114,7 +114,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.22",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -150,7 +150,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.22",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
