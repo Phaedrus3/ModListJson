@@ -63,7 +63,7 @@
 				"Gameplay"
 			],
 			"gameversion": [],
-			"images": [https://github.com/Phaedrus3/ModListJson/raw/main/Stretch.jpg],
+			"images": [https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/Stretch.jpg],
 			"dependencies": [
 				"ModSettings"
 			],
