@@ -54,7 +54,7 @@
 			"previousAuthors": "Bushtail",
 			"released": "2023-06-27",
 			"updated": "2023-06-27",
-			"downloadURL": "https://github.com/Phaedrus3/StretchArmstrong/releases/download/v2.0/StretchArmstrong.dll",
+			"downloadURL": "https://raw.githubusercontent.com/Phaedrus3/StretchArmstrong/releases/download/v2.0/StretchArmstrong.dll",
 			"modURL": "https://github.com/Phaedrus3/StretchArmstrong",
 			"description": "Allows the user to modify their interaction distance.",
 			"tags": "",
@@ -63,7 +63,7 @@
 				"Gameplay"
 			],
 			"gameversion": [],
-			"images": [https://github.com/Phaedrus3/ModListJson/raw/main/Stretch.jpg],
+			"images": [https://github.com/Phaedrus3/ModListJson/main/Stretch.jpg],
 			"dependencies": [
 				"ModSettings"
 			],
