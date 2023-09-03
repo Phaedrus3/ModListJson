@@ -63,7 +63,7 @@
 				"Gameplay"
 			],
 			"gameversion": [],
-			"images": [],
+			"images": [https://github.com/Phaedrus3/ModListJson/raw/main/Stretch.jpg],
 			"dependencies": [
 				"ModSettings"
 			],
@@ -102,7 +102,7 @@
 				"Gameplay"
 			],
 			"gameversion": [],
-			"images": [],
+			"images": [https://github.com/Phaedrus3/ModListJson/raw/main/SonicMode.jpg],
 			"dependencies": [
 				"ModSettings"
 			],
@@ -140,7 +140,7 @@
 				"Quality of Life"
 			],
 			"gameversion": [],
-			"images": [],
+			"images": [https://github.com/Phaedrus3/ModListJson/raw/main/SaveSlotLimit.jpg],
 			"dependencies": [],
 			"status": {
 				"working": true,
