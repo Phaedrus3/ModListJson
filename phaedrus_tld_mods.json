@@ -215,7 +215,7 @@
 				"Quality of Life"
 			],
 			"gameversion": [],
-			"images": [],
+			"images": ["https://github.com/Phaedrus3/ModListJson/raw/main/ForsakenShortcut.jpg"],
 			"dependencies": [
 				"ModSettings"
 			],
