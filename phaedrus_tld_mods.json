@@ -209,7 +209,7 @@
 			"updated": "2023-09-04",
 			"downloadURL": "https://github.com/Phaedrus3/ForsakenShortcut/releases/download/v1.0/ForsakenShortcut.dll",
 			"modURL": "https://github.com/Phaedrus3/ForsakenShortcut",
-			"description": "Add four bridges to allow for a shotcut into FA.  Also, bypass the rock climbs on the shortcut out of FA.",
+			"description": "Add four bridges to allow for a shotcut into FA.  Also, bypass the rock climbs on the shortcut in and out of FA.",
 			"tags": "",
 			"categories": [
 				"Quality of Life"
