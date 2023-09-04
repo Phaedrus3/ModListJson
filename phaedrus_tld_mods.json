@@ -253,7 +253,7 @@
 				"Quality of Life"
 			],
 			"gameversion": [],
-			"images": ["https://github.com/Phaedrus3/ModListJson/blob/main/FAHangerWorkbench.jpg"],
+			"images": ["https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/FAHangerWorkbench.jpg"],
 			"dependencies": [
 				"ModSettings"
 			],
