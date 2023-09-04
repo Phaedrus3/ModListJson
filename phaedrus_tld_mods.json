@@ -235,6 +235,44 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0",
+			"name": "ForsakenHangerWorkbench",
+			"displayName": "Forsaken Hanger Workbench",
+			"author": "Phaedrus",
+			"previousAuthors": "",
+			"released": "2023-09-04",
+			"updated": "2023-09-04",
+			"downloadURL": "https://github.com/Phaedrus3/ForsakenHangerWorkbench/releases/download/v1.0/ForsakenHangerWorkbench.dll",
+			"modURL": "https://github.com/Phaedrus3/ForsakenHangerWorkbench",
+			"description": "Add a workbench to the main level of the Hanger (Plus two additional tool cabinets).",
+			"tags": "",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [],
+			"images": ["https://github.com/Phaedrus3/ModListJson/blob/main/FAHangerWorkbench.jpg"],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.22",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
