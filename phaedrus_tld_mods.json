@@ -198,6 +198,44 @@
 			},
 			"aliases": []
 		}
+		{
+			"type": "mod",
+			"version": "1.0",
+			"name": "ForsakenShortcut",
+			"displayName": "Forsaken Shortcut",
+			"author": "Phaedrus",
+			"previousAuthors": "",
+			"released": "2023-09-04",
+			"updated": "2023-09-04",
+			"downloadURL": "https://github.com/Phaedrus3/ForsakenShortcut/releases/download/v1.0/ForsakenShortcut.dll",
+			"modURL": "https://github.com/Phaedrus3/ForsakenShortcut",
+			"description": "Add four bridges to allow for a shotcut into FA.  Also, bypass the rock climbs on the shortcut out of FA.",
+			"tags": "",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.22",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		}
 	]
 }
 
