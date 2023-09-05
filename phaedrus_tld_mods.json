@@ -198,6 +198,44 @@
 			},
 			"aliases": []
 		},
+				{
+			"type": "mod",
+			"version": "1.0",
+			"name": "ForsakenHangerWorkbench",
+			"displayName": "Forsaken Hanger Workbench",
+			"author": "Phaedrus",
+			"previousAuthors": "",
+			"released": "2023-09-05",
+			"updated": "2023-09-05",
+			"downloadURL": "https://github.com/Phaedrus3/ForsakenHangerWorkbench/releases/download/v1.0/ForsakenHangerWorkbench.dll",
+			"modURL": "https://github.com/Phaedrus3/ForsakenHangerWorkbench",
+			"description": "Move the workbench to the main level of the Hanger and move the two tool cabinetsnext to the next location of the workbench.",
+			"tags": "",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [],
+			"images": ["https://raw.githubusercontent.com/Phaedrus3/ModListJson/main/FAHangerWorkbench.jpg"],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.22",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
 		{
 			"type": "mod",
 			"version": "1.0",
