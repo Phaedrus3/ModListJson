@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.2",
+			"version": "1.21",
 			"name": "Outdoor Safehouse Adjustments",
 			"displayName": "Outdoor Safehouse Adjustments",
 			"author": "Phaedrus",
 			"previousAuthors": "Santana",
 			"released": "2023-08-30",
-			"updated": "2023-09-02",
-			"downloadURL": "https://github.com/Phaedrus3/OutdoorSafehouseAdjustments/releases/download/v1.2/OutdoorSafehouseAdjustments.dll",
+			"updated": "2023-09-05",
+			"downloadURL": "https://github.com/Phaedrus3/OutdoorSafehouseAdjustments/releases/download/ver1.21/OutdoorSafehouseAdjustments.dll",
 			"modURL": "https://github.com/Phaedrus3/OutdoorSafehouseAdjustments",
 			"description": "Make adjustments to several outdoor safehouses, such as removing objects, adding objects and adjusting temperatures.",
 			"tags": "",
